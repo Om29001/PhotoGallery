@@ -1,4 +1,4 @@
-import { IonContent, IonHeader, IonPage, IonSearchbar, IonTitle, IonToolbar, IonButton, IonIcon, IonButtons, IonRow, IonCol, IonImg, IonItem, IonList, IonText, IonGrid } from "@ionic/react"
+import { IonContent, IonHeader, IonPage, IonSearchbar, IonTitle, IonToolbar, IonButton, IonIcon, IonButtons, IonRow, IonCol, IonImg, IonItem, IonList, IonText } from "@ionic/react"
 import { useEffect, useState } from "react"
 import { arrowBackOutline, arrowForwardOutline, listOutline, gridOutline } from "ionicons/icons"
 
