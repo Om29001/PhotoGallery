@@ -34,7 +34,7 @@ const Home: React.FC = () => {
 
         <IonToolbar>
           <IonRow>
-            <IonCol size="11">
+            <IonCol size="10">
               <IonSearchbar showClearButton="focus" placeholder="Random" onIonChange={(ev) => handleChange(ev)}></IonSearchbar>
             </IonCol>
             <IonCol size="1">
